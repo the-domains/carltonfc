@@ -4,8 +4,15 @@
         <description><![CDATA[CarltonFC]]></description>
         <link>https://thegrid.ai/carltonfc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 01:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 01:49:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/carltonfc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecbaccd6a4e3832b745f40c80ce4bec2dcad4a11.jpg" alt="@anthonykouta has lauded former teammate @kadesimpson6 ahead of #Simmo250: http://cfcblu.es/KoutaSimmo250 #BoundByBluepic.twitter.com/70QaTWpbbC" title="">]]></description>
+            <link>https://twitter.com/CarltonFC/status/729993196646875137</link>
+            <guid isPermaLink="false">709e0aea-7f18-4c81-af95-d56d022bdb7c</guid>
+            <pubDate>Wed, 11 May 2016 01:49:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef071e6bf4a6eb02f293575f1c0d40ae552e5556.jpg" alt="" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://shop.carltonfc.com.au/</link>
             <guid isPermaLink="false">ae5810f4-a870-465d-9126-da0186c2c03d</guid>
             <pubDate>Wed, 11 May 2016 01:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blues get behind 2016 Good Friday Appeal - carltonfc.com.au]]></title>
-            <description><![CDATA[<article><h1>Blues get behind 2016 Good Friday Appeal - carltonfc.com.au</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bee8b894dfc1ff93fd49c7708fb213093fed96ff.jpg"></article>]]></description>
-            <link>http://www.carltonfc.com.au/news/2016-03-25/blues-get-behind-2016-good-friday-appeal</link>
-            <guid isPermaLink="false">11274aa4-5b45-403e-9534-e5bac1f93198</guid>
-            <pubDate>Wed, 11 May 2016 01:22:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
