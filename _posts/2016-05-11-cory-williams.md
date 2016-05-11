@@ -1,33 +1,31 @@
 ---
+datePublished: '2016-05-11T02:48:38.296Z'
+sourcePath: _posts/2016-05-11-cory-williams.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
-description: 'A CEO with more than 20 years experience in fast-growth companies, business transformations and venture capital related enterprises.  A proven record in strategy, new business development and marketing - spanning several different industries (biotech, software, water) and geographies (Australia, Singapore/Asia, Scandinavia, US, UK and New Zealand). Focused on leadership and team performance. An innovative, entrepreneurial thinker with an ability to balance the vision of “the big picture” with the practical and pragmatic tough decisions required to implement it. Family - married to Kathryn Harby-Williams - former Australian Netball Captain and current FOX sport journalist/commentator. Father to three great children, Coco, Jasper and Joey.'
-datePublished: '2016-05-11T02:40:47.882Z'
-dateModified: '2016-05-11T02:40:42.502Z'
-title: Cory Williams
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-05-11-cory-williams.md
-authors: []
+dateModified: '2016-05-11T02:48:35.226Z'
+title: Cory Williams // Proud Member of CFC
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: 'A CEO with more than 20 years experience in fast-growth companies, business transformations and venture capital related enterprises.  A proven record in strategy, new business development and marketing - spanning several different industries (biotech, software, water) and geographies (Australia, Singapore/Asia, Scandinavia, US, UK and New Zealand). Focused on leadership and team performance. An innovative, entrepreneurial thinker with an ability to balance the vision of “the big picture” with the practical and pragmatic tough decisions required to implement it. Family - married to Kathryn Harby-Williams - former Australian Netball Captain and current FOX sport journalist/commentator. Father to three great children, Coco, Jasper and Joey.'
+inLanguage: null
+inNav: true
 starred: true
 url: cory-williams/index.html
 _type: Article
 
 ---
-# Cory Williams
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d8102a7a2b2609417dc04896950126a85ee34ea.jpg" /><h1>Cory Williams</h1></article>
 
-## Proud Member of CFC
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a3d8bddbe5580bf192163b7f8a014ceea89e53.jpg" /></article>
+## Cory Williams // Proud Member of CFC
 
 A CEO with more than 20 years experience in fast-growth companies, business transformations and venture capital related enterprises.   
 A proven record in strategy, new business development and marketing - spanning several different industries (biotech, software, water) and geographies (Australia, Singapore/Asia, Scandinavia, US, UK and New Zealand).  
