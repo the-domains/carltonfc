@@ -4,7 +4,7 @@
         <description><![CDATA[CarltonFC]]></description>
         <link>https://thegrid.ai/carltonfc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 01:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 01:23:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/carltonfc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/carltonfc/fd56a786-d411-4605-8156-24410e66dd24/index.html</link>
             <guid isPermaLink="false">fd56a786-d411-4605-8156-24410e66dd24</guid>
             <pubDate>Wed, 11 May 2016 01:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0dbca3eca3f41c726247d591252f347272046b3.jpg" alt="Find out who shone amid the gloom for @NBluesFC on Sunday in @jfraser17&apos;s player review: http://cfcblu.es/VFLReviewRd5" title="">]]></description>
+            <link>https://twitter.com/CarltonFC/status/729961713429286912</link>
+            <guid isPermaLink="false">d4320813-86f7-4505-bec0-ec7bd830a787</guid>
+            <pubDate>Wed, 11 May 2016 01:23:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[There were career-best numbers for some of our boys in the win over Collingwood. Full analysis on the app. #BoundByBlue #AFLPiesBlues]]></title>
@@ -40,13 +47,6 @@
             <link>https://www.youtube.com/watch?v=loGkQozMxCY</link>
             <guid isPermaLink="false">6ebf10a5-a273-47e7-b2d7-55237c4c4123</guid>
             <pubDate>Wed, 11 May 2016 01:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Find out who shone amid the gloom for @NBluesFC on Sunday in @jfraser17&apos;s player review: http://cfcblu.es/VFLReviewRd5" src="https://pbs.twimg.com/media/CiFYT3IXAAAEvC7.jpg:large">]]></description>
-            <link>https://twitter.com/CarltonFC/status/729961713429286912</link>
-            <guid isPermaLink="false">d4320813-86f7-4505-bec0-ec7bd830a787</guid>
-            <pubDate>Wed, 11 May 2016 01:08:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
