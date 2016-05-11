@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'A CEO with more than 20 years experience in fast-growth companies, business transformations and venture capital related enterprises. A proven record in strategy, new business development and marketing - spanning several different industries (biotech, software, water) and geographies (Australia, Singapore/Asia, Scandinavia, US, UK and New Zealand).Focused on leadership and team performance. An innovative, entrepreneurial thinker with an ability to balance the vision of “the big picture” with the practical and pragmatic tough decisions required to implement it.Family - married to Kathryn Harby-Williams - former Australian Netball Captain and current FOX sport journalist/commentator. Father to three great children, Coco, Jasper and Joey.'
-datePublished: '2016-05-11T22:23:46.282Z'
-dateModified: '2016-05-11T22:23:42.105Z'
+datePublished: '2016-05-11T22:53:26.328Z'
+dateModified: '2016-05-11T22:53:25.928Z'
 title: Cory Williams // Proud Member of CFC
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: cory-williams-proud-member-of-cfc/index.html
 _type: Article
 
