@@ -4,11 +4,13 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'A CEO with more than 20 years experience in fast-growth companies, business transformations and venture capital related enterprises. A proven record in strategy, new business development and marketing - spanning several different industries (biotech, software, water) and geographies (Australia, Singapore/Asia, Scandinavia, US, UK and New Zealand).Focused on leadership and team performance. An innovative, entrepreneurial thinker with an ability to balance the vision of “the big picture” with the practical and pragmatic tough decisions required to implement it.Family - married to Kathryn Harby-Williams - former Australian Netball Captain and current FOX sport journalist/commentator. Father to three great children, Coco, Jasper and Joey.'
-datePublished: '2016-05-11T02:03:07.468Z'
-dateModified: '2016-05-11T02:03:01.591Z'
+description: 'A CEO with more than 20 years experience in fast-growth companies, business transformations and venture capital related enterprises.  A proven record in strategy, new business development and marketing - spanning several different industries (biotech, software, water) and geographies (Australia, Singapore/Asia, Scandinavia, US, UK and New Zealand). Focused on leadership and team performance. An innovative, entrepreneurial thinker with an ability to balance the vision of “the big picture” with the practical and pragmatic tough decisions required to implement it. Family - married to Kathryn Harby-Williams - former Australian Netball Captain and current FOX sport journalist/commentator. Father to three great children, Coco, Jasper and Joey.'
+datePublished: '2016-05-11T02:08:18.795Z'
+dateModified: '2016-05-11T02:08:12.308Z'
 title: Cory Williams
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-11-cory-williams.md
 authors: []
 publisher:
