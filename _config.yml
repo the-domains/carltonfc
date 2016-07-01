@@ -2,6 +2,7 @@ name: CarltonFC
 favicon: null
 layout_spectrum: 0.40146
 typography_spectrum: 0.15606572339311242
+style: the-composer
 cta:
   domain: null
   bucket: null
